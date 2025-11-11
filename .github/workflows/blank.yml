@@ -2,7 +2,7 @@ name: fetch-images
 
 on:
   schedule:
-    - cron: "30 */1 * * *"
+    - cron: "0 3 * * *"  # UTC 3시 0분 = 한국 시간(KST) 12시 0분 (정오)
   workflow_dispatch: {}
 
 permissions:
