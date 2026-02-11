@@ -30,7 +30,6 @@ jobs:
         shell: bash
         run: |
           URLS=(
-            "https://backend.wplace.live/files/s0/tiles/1750/816.png" 
             "https://backend.wplace.live/files/s0/tiles/1751/816.png"
           )
 
