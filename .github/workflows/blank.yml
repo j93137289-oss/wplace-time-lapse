@@ -30,7 +30,7 @@ jobs:
         shell: bash
         run: |
           URLS=(
-            "https://backend.wplace.live/files/s0/tiles/1750/817.png"
+            "https://backend.wplace.live/files/s0/tiles/1794/790.png"
           )
 
           DAYTIM="$(TZ=Asia/Seoul date +'%Y%m%d_%H%M%S')"
